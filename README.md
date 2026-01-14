@@ -1,4 +1,4 @@
-# Hugo González 🦈
+# 🦈 About me:
 Building robust AI/ML applications with a focus on infra and production.
 
 ## 🌐 Socials:
