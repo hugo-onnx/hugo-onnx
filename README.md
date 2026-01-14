@@ -1,4 +1,4 @@
-<h1 align="center">Hugo González 🦈</h1>
+# Hugo González 🦈
 Building robust AI/ML applications with a focus on infra and production.
 
 ## 🌐 Socials:
