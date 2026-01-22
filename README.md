@@ -6,8 +6,6 @@
   Welcome to my GitHub!
 </h1>
 
----
-
 # 🦈 About me:
 Building robust AI/ML applications with a focus on infra and production.
 
